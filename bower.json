@@ -1,0 +1,31 @@
+{
+  "name": "dockerfileGen",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yeasy/dockerfileGen",
+  "authors": [
+    "yeasy "
+  ],
+  "description": "Dockerfile gen",
+  "main": "index.html",
+  "keywords": [
+    "dockerfile",
+    "docker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.2.0",
+    "datatables-responsive": "~1.0.3",
+    "bootstrap-social": "~4.8.0",
+    "ui-router": "~0.2.15",
+    "restangular": "~1.5.1",
+    "bootstrap": "~3.3.4",
+    "angularjs": "~1.4.0"
+  }
+}
