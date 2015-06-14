@@ -24,6 +24,8 @@ TODO.
 
 ## Design
 
+## TODO
+Call remote docker api to use Dockerfile gen by this project!
 ### Philosophies
 * Keep it simple to open for use.
 * Let code take as many responsibilities as possible.
